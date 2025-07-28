@@ -26,8 +26,8 @@ print(song_names)
 
 
 spotify_uri = "https://developer.spotify.com/dashboard/create"
-Client_id = "ad7f843ebbfc434eac204322d50d0268"
-client_secret_key = "bc57cfd03a484a93a315d17ab517bba3"
+Client_id = ""
+client_secret_key = ""
 SCOPE = 'playlist-modify-private playlist-modify-public user-library-read'
 
 
